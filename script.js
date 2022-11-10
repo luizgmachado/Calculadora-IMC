@@ -1,7 +1,9 @@
+import { Modal } from "./modal.js"
 // Variáveis - variables
 const form = document.querySelector("form")
 const inputWeight = document.querySelector("#weight")
 const inputHeight = document.querySelector("#height")
+
 
 form.onsubmit = function (event) {
     event.preventDefault()
