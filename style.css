@@ -147,6 +147,7 @@ form button:hover {
 
 .modal {
     position: relative;
+    
    
 }
 
@@ -166,6 +167,12 @@ form button:hover {
 
 .modal button:hover {
     transform: scale(1.4);
+}
+
+.modal .title .tabela {
+    width: 37rem;
+    margin-left: -30px;
+    margin-top: 20px
 }
 
 /*Alert error*/
