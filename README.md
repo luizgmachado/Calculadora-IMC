@@ -1,9 +1,3 @@
-# Calculadora-IMC
-
-
-
-
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,15 +6,17 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://user-images.githubusercontent.com/108701750/211663793-0f77733a-b5ee-402b-a918-25975596412c.png">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 #
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="https://user-images.githubusercontent.com/108701750/209990965-46513414-b28c-4758-b30c-70bd6fb472f6.png" width="100%">
+  <img alt="projeto DevLinks" src="https://user-images.githubusercontent.com/108701750/211665026-0da2519d-fd2f-4106-a1c0-fc88aedb2de7.png" width="35%">
+  <img alt="License" src="https://user-images.githubusercontent.com/108701750/211665099-5c8d829a-bf3c-444b-81db-5048add69403.png" width="35%">
 </p>
+
 
 ## 🚀 Tecnologias
 
@@ -28,6 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
+- ES6 modules
 - Git e Github
 
 ## 💻 Projeto
