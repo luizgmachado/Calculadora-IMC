@@ -35,7 +35,7 @@ O índice é calculado da seguinte maneira: divide-se o peso do paciente pela su
 
 Quer descobrir seu IMC?
 
-- [Acesse o projeto finalizado, online](https://imccalculecommodal.netlify.app/))
+- [Acesse o projeto finalizado, online](https://imccalculecommodal.netlify.app/)
 
 ## 🔖 Layout
 
